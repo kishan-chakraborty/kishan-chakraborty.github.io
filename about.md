@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently pursuing Ph.D. in application of Reinforcement Learning under the supervision of Dr. Arghyadip Roy in MFSDSAI, IIT Guwahati.
 
 ### More Information
 
