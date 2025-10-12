@@ -5,12 +5,6 @@ permalink: /about/
 ---
 <img src="{{ site.avatar }}" alt="Profile Image" style="width:200px; height:200px; border-radius:50%;" />
 
-I am currently pursuing Ph.D. in application of Reinforcement Learning under the supervision of Dr. Arghyadip Roy in MFSDSAI, IIT Guwahati.
+I am currently pursuing Ph.D. in application of Reinforcement Learning under the supervision of [Dr. Arghyadip Roy](https://sites.google.com/view/arghyadiproy/home) in [MFSDSAI](https://www.iitg.ac.in/dsai/), [IIT Guwahati](https://www.iitg.ac.in/). I have completed M.Sc. in Mathematics and Computing from IIT Guwahati. Previously I was with [DeltaV Robotics](https://deltavrobo.com/) working in ML and Mathematical Modelling. I love doing mathematics, sketching and photography. I am deeply interested in the intersection of AI and healthcare and aspire to make meaningful contributions in the future.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[kishanchakraborty833@gmail.com](mailto:email@gmail.com)
+### Happy to connect 
